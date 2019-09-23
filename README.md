@@ -9,6 +9,14 @@
 6. Salsabila Siti Mubarani 
 
 # Dokumentasi
+Cara Memasang 
+1. Download folder pinjamruang
+2. Ekstrak File rest-api didalamnya yang sudah terdapat database didalamnya
+3. Import database pada phpmyadmin
+4. jalankan url localhost/Sapra pada browser
+5. Login admin "Username: suko Password : 12345" jika login user silahkan register terlebih dahulu.
+
+Penjelasan
 
  Di sekolah kami, selalu ada kegiatan sub organisasi yang membutuhkan forum setiap harinya, karena forum dilaksanakan pada jam yang sama setiap sub organisasi dan ruangan yang disediakan juga terbatas, ini menyebabkan sering terjadi bentrok antar sub organisasi. Saat melakukan peminjaman ruang pun juga sedikit merepotkan. Kita harus menemui Bapak satpam terlebih dahulu untuk meminta surat izin pinjam ruang yang nantinya harus ditandatangani dan diizinkan oleh Bapak suko selaku waka sarana dan prasarana sekolah dan juga kesiswaan. Sehingga menurut kami cara ini kurang efisiean. Berawal dari sinilah kami berinisiatif untuk membuat sebuah web yang dapat memudahkan peminjaman ruang disekolah kami untuk kepentingan forum disekolah kami.
  
